@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\FinalProject\\finalproject\\FinalProject.csproj": {}
+    "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\FinalProject\\finalproject\\FinalProject.csproj": {
+    "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\FinalProject\\finalproject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\User\\FinalProject\\finalproject\\FinalProject.csproj",
+        "projectPath": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\FinalProject\\finalproject\\obj\\",
+        "outputPath": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
