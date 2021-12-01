@@ -5847,11 +5847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project_Payment\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project_Payment\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\User\\FSDO002ONL003_Alwi Azra Akbar Djunaid_Final_Project_Payment\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
