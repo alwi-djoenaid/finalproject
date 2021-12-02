@@ -116,6 +116,9 @@ namespace FinalProject.Controllers
                 });
             }
 
+            _context.Payments.Remove(dataExist);
+            await _context.SaveChangesAsync();
+
             return new OkObjectResult(new {
                 success = true,
                 message = "Success delete payment record",
